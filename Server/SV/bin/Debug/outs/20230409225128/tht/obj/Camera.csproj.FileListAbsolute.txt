@@ -1,0 +1,3 @@
+C:\Users\Anton\Desktop\AndroSpy-master\Server\SV\bin\Debug\outs\20230409225128\tht\obj\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Anton\Desktop\AndroSpy-master\Server\SV\bin\Debug\outs\20230409225128\tht\obj\build.props
+C:\Users\Anton\Desktop\AndroSpy-master\Server\SV\bin\Debug\outs\20230409225128\tht\obj\adb.props

@@ -1,0 +1,17 @@
+Hash 32     Hash 64             Blob ID  Blob idx  Name
+0x532625e8  0x13eb6d763d293639  000      0000      ServicesDemo3
+0x38f24a24  0x18071957e9b889d7  000      0001      Newtonsoft.Json
+0x1ead1551  0x9de14f3d5fc13cc4  000      0002      Xamarin.Android.Support.Compat
+0x82e6d195  0x14b1077d6c5c0ee9  000      0003      Xamarin.Android.Support.VersionedParcelable
+0x1a605985  0x4836f704f0e652c5  000      0004      Xamarin.Essentials
+0x132b30dd  0x31042a9aade235bb  000      0005      System.Numerics
+0xc8a662e9  0x77b654e585b55834  000      0006      Java.Interop
+0xcf3163e6  0x01accec39cafe242  000      0007      Mono.Android
+0x1bc4415d  0xe99c30c1484d7f4f  000      0008      mscorlib
+0xf76edc75  0x98f9bc61168392ac  000      0009      System.Core
+0x41761b2c  0xe03056ea4e39aa26  000      0010      System
+0xcc6479a0  0x992e31d0412bf7fc  000      0011      System.Xml
+0xc5b79d28  0x6c87ca1e14ff8111  000      0012      System.Data
+0xb979e222  0xb98de304062ea945  000      0013      System.Runtime.Serialization
+0xd128d608  0x5f6f85a57d108914  000      0014      System.Xml.Linq
+0xc197c562  0x8ac2470b209ebae3  000      0015      Mono.Security

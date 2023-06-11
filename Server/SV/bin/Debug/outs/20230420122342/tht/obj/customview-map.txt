@@ -1,0 +1,17 @@
+Button;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\layout\main.xml
+cache-path;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\lp\30\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+device-admin;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\layout\admin.xml
+dimen;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\values\dimen.xml
+external-cache-path;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\lp\30\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\lp\30\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+force-lock;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\layout\admin.xml
+item;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\values\styles.xml
+LinearLayout;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\layout\main.xml
+paths;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\lp\30\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\values\dimen.xml
+resources;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\values\strings.xml
+resources;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\values\styles.xml
+string;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\values\strings.xml
+style;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\values\styles.xml
+SurfaceView;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\layout\main.xml
+uses-policies;C:\Users\Anton\Desktop\SPYSECRET-MASTER\Server\SV\bin\Debug\outs\20230420122342\tht\obj\res\layout\admin.xml
